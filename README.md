@@ -59,3 +59,5 @@
 ![alt text](./assets/image-29.png)
 
 # Step 11: Exporting and importing modules
+
+![alt text](./assets/image-30.png)
