@@ -40,3 +40,10 @@
 ![alt text](./assets/image-19.png)
 
 # Step 8: Arrays in TS
+
+![alt text](./assets/image-20.png)
+![alt text](./assets/image-21.png)
+
+# Step 9: Enums
+
+![alt text](./assets/image-22.png)
