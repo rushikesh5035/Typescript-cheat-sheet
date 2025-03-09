@@ -50,3 +50,12 @@
 ![alt text](./assets/image-23.png)
 ![alt text](./assets/image-24.png)
 ![alt text](./assets/image-25.png)
+
+# Step 10: Generics
+
+![alt text](./assets/image-26.png)
+![alt text](./assets/image-27.png)
+![alt text](./assets/image-28.png)
+![alt text](./assets/image-29.png)
+
+# Step 11: Exporting and importing modules
