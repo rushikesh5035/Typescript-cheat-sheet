@@ -47,3 +47,6 @@
 # Step 9: Enums
 
 ![alt text](./assets/image-22.png)
+![alt text](./assets/image-23.png)
+![alt text](./assets/image-24.png)
+![alt text](./assets/image-25.png)
